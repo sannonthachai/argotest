@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: 248783859424.dkr.ecr.ap-southeast-1.amazonaws.com/globish-admin-frontend
-  tag: latest
+  tag: jenkins-a41841ce8256d81df4d5ced10f12fc2e98e9e427
   pullPolicy: IfNotPresent
 
 strategy:
