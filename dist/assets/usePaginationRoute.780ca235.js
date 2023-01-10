@@ -1,0 +1,1 @@
+import{A as e,k as r,q as a}from"./vendor.1c8b4573.js";function u(){const u=e(),o=r((()=>u.query.page||"1")),s=r((()=>u.query.perPage||"10")),t=r((()=>u.query.search||void 0)),v=r((()=>u.query.sort||void 0));return a({currentPage:+o.value,perPage:+s.value,search:t.value||void 0,sort:v.value})}export{u};

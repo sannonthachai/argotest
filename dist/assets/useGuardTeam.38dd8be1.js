@@ -1,0 +1,1 @@
+import{u as e}from"./index.d7dc1ff6.js";import{k as t}from"./vendor.1c8b4573.js";function a(){const a=t((()=>({canCreate:e(["CREATE_TEAM"]),canView:e(["VIEW_TEAM"]),canEdit:e(["EDIT_TEAM"]),canDelete:e(["DELETE_TEAM"])}))),n=t((()=>Object.values(a.value).some((e=>e))));return{capabilities:a,haveActionButton:n}}export{a as u};

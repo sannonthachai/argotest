@@ -1,0 +1,1 @@
+const r=["","primary","success","warning","danger","info","h-yellow","h-orange","h-purple","h-green","h-blue","h-red"],e=(e,n)=>{const h=(e||"x").charAt(0)+(n||"x").charAt(0),t=`${e||"x"}${n||"x"}`.length%r.length;return{initials:h,color:r[t]}};export{e as i};
