@@ -1,1 +1,0 @@
-import{u as E}from"./index.d7dc1ff6.js";import{k as a}from"./vendor.1c8b4573.js";function n(){const n=a((()=>({canView:E(["VIEW_SERIES_ITEM"]),canEdit:E(["EDIT_SERIES_ITEM"]),canCreate:E(["CREATE_SERIES_ITEM"])}))),t=a((()=>n.value.canEdit||n.value.canView));return{capabilities:n,haveActionButton:t}}export{n as u};

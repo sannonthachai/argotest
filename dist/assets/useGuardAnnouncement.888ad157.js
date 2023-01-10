@@ -1,1 +1,0 @@
-import{u as e}from"./index.d7dc1ff6.js";import{k as a}from"./vendor.1c8b4573.js";function E(){const E=a((()=>({canView:e(["VIEW_ANNOUNCEMENT"]),canCreate:e(["CREATE_ANNOUNCEMENT"]),canEdit:e(["EDIT_ANNOUNCEMENT"]),canDelete:e(["DELETE_ANNOUNCEMENT"])}))),N=a((()=>E.value.canView&&E.value.canEdit&&E.value.canDelete));return{capabilities:E,haveActionButton:N}}export{E as u};

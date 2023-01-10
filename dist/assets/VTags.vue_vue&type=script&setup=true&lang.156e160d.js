@@ -1,1 +1,0 @@
-import{d as s,o as a,e as o,f as d,n as e}from"./vendor.1c8b4573.js";var r=s({props:{addons:{type:Boolean,required:!1}},setup(s){const r=s;return(s,t)=>(a(),o("div",{class:e(["tags",[r.addons&&"has-addons"]])},[d(s.$slots,"default")],2))}});export{r as _};

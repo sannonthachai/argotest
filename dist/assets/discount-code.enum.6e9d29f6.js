@@ -1,1 +1,0 @@
-var A,E,_,L,N,T,a,C;(E=A||(A={})).CAN_NOT_PAY_INSTALLMENT="0",E.CAN_PAY_INSTALLMENT="1",(L=_||(_={})).PRICE="price",L.PERCENTAGE="percentage",(T=N||(N={})).FALSE="0",T.TRUE="1",(C=a||(a={})).NOT_USE_FOR_ALL_PACKAGE="0",C.USE_FOR_ALL_PACKAGE="1";export{_ as D,A as I,N as R,a as U};

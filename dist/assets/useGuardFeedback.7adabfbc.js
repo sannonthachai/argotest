@@ -1,1 +1,0 @@
-import{u as a}from"./index.d7dc1ff6.js";import{k as E}from"./vendor.1c8b4573.js";function i(){const i=E((()=>({canViewList:a(["VIEW_LIST_OF_FEEDBACK"]),canCreate:a(["CREATE_FEEDBACK"]),canView:a(["VIEW_FEEDBACK"]),canEdit:a(["EDIT_FEEDBACK"])}))),n=E((()=>i.value.canView||i.value.canEdit));return{capabilities:i,haveActionButton:n}}export{i as u};

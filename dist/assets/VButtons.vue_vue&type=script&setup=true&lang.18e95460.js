@@ -1,1 +1,0 @@
-import{d as s,o as a,e as o,f as d,n as e}from"./vendor.1c8b4573.js";var n=s({props:{align:{type:String,required:!1,default:void 0},addons:{type:Boolean,required:!1}},setup(s){const n=s;return(s,r)=>(a(),o("div",{class:e(["buttons",[n.addons&&"has-addons",n.align&&`is-${n.align}`]])},[d(s.$slots,"default")],2))}});export{n as _};
